@@ -5,7 +5,7 @@ for fun
 [Headers](#conversion project)  
 [Emphasis](#emphasis)  
  
-<a name="headers"/>
+<a name="conversion project"/>
 
 ### 1. conversion project: 
 the goal of this challenge is to build a model that predicts conversion rate and, based on the model logistic regression, come up with ideas to improve revenue.Come up with recommendations for the product team and the marketing team to improve conversion rate
