@@ -10,7 +10,7 @@ the goal of this challenge is to build a model that predicts conversion rate and
 ### 2. 
 [spanish_translation project](https://github.com/Libby007/ds_project/blob/main/spanish_translation.ipynb)
 
-the goal of this challenge is to use A/B testing(two tail t-test and p value) to check whether or not localized translation performed better than non-local translation via using decison tree classifier
+the goal of this challenge is to use A/B testing(two tail t-test and p value) to check whether or not new product should be lunched or not (i.e.,localized translation performed better than non-local translation via using decison tree classifier)
 
 ### 3.
 [employee retention](https://github.com/Libby007/ds_project/blob/main/employee_retention.ipynb)
