@@ -16,3 +16,8 @@ the goal of this challenge is to use A/B testing(two tail t-test and p value) to
 [employee retention](https://github.com/Libby007/ds_project/blob/main/employee_retention.ipynb)
 
 Employee turn-over is a very costly problem for companies. Understanding why and when employees are most likely to leave can lead to actions to improve employee retention as well as planning new hiring in advance.In this challenge, will apply employees dataset and predict when employees are going to quit by understanding the main drivers of employee churn.
+
+### 4.
+[fraud detection](https://github.com/Libby007/ds_project/blob/main/fraud_detection.ipynb)
+
+E-commerce site that sells hand-made clothes. this project is to build adaboost and xgboost model that predicts whether a user has a high probability of using the site to perform some illegal activity or not, this is a supervised model, and since skewness dataset involved here, we use precision-recall curve, instead of roc curve to diagnose.
