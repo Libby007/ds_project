@@ -1,4 +1,4 @@
-# ds_project
+# statistical project
 for fun
 
 
